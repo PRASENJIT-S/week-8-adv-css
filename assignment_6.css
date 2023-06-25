@@ -1,0 +1,22 @@
+.total{
+    height: 500px;
+    width: 500px;
+    border: 1px solid #000000;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid #000000;
+}
+.image{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+img:hover{
+    filter: grayscale(0.9);
+}

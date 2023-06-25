@@ -1,0 +1,22 @@
+.total{
+    height: 200px;
+    border: 1px solid #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body{
+    height: 80px;
+    width: 450px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right , #4f4ff0, #08086b);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}

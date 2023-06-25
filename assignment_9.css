@@ -1,0 +1,37 @@
+*{
+    color: #ffffff;
+}
+.total{
+    height: 500px;
+    width: 500px;
+    background-color: #000000;
+    border-radius: 10px;
+}
+.image{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 100px;
+    width: 170px;
+}
+h1{
+    text-align: center;
+}
+.main{
+    height: 300px;
+    width: 480px;
+    margin-left:  10px;
+    overflow-y: scroll;
+}
+p{
+    padding-right: 7px;
+}
+::-webkit-scrollbar{
+    width: 3px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #ffffff;
+    border-radius: 3px;
+}
